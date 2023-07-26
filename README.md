@@ -7,7 +7,7 @@ It has two parts, one for customer to interface like creat account, login, buy p
 
 For details, please see below, it has everythings about this porject like what each webpage/script does, what is the business flow of this webpage, how to host it on google LAMP stack VM, database structure, demo etc.
 
-# Detail about this project
+# Details about this project
 
 **Here has two parts, Part 1 shows operation manual (Including
 how to host it) and layout of each page, Part 2 for the others
